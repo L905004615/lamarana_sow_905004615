@@ -1,0 +1,90 @@
+FOOTBALL AGENCY SIERRA LEONE - HOME PAGE SKETCH TEMPLATE
+================================================================
+
+Use this as a guide for your hand-drawn sketch. Draw this layout on paper with pencil.
+
+HEADER SECTION (Top of page)
+┌─────────────────────────────────────────────────────────────┐
+│ [LOGO] Football Agency Sierra Leone    [Menu] [Contact]     │
+│                                                             │
+│ Home | Players | Matches | About Us | Contact               │
+└─────────────────────────────────────────────────────────────┘
+
+HERO SECTION (Main banner area)
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│              FOOTBALL AGENCY SIERRA LEONE                   │
+│                                                             │
+│         "Managing Sierra Leone's Football Talent"           │
+│                                                             │
+│              [VIEW OUR PLAYERS] [CONTACT US]                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+FEATURED PLAYERS SECTION
+┌─────────────────────────────────────────────────────────────┐
+│                    FEATURED PLAYERS                         │
+│                                                             │
+│  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐         │
+│  │ [PHOTO] │  │ [PHOTO] │  │ [PHOTO] │  │ [PHOTO] │         │
+│  │  Name   │  │  Name   │  │  Name   │  │  Name   │         │
+│  │Position │  │Position │  │Position │  │Position │         │
+│  │  Stats  │  │  Stats  │  │  Stats  │  │  Stats  │         │
+│  └─────────┘  └─────────┘  └─────────┘  └─────────┘         │
+│                                                             │
+│                    [VIEW ALL PLAYERS]                       │
+└─────────────────────────────────────────────────────────────┘
+
+LATEST NEWS SECTION
+┌─────────────────────────────────────────────────────────────┐
+│                      LATEST NEWS                            │
+│                                                             │
+│  ┌─────────────────────┐  ┌─────────────────────┐           │
+│  │   [NEWS IMAGE]      │  │   [NEWS IMAGE]      │           │
+│  │  News Headline 1    │  │  News Headline 2    │           │
+│  │  Brief description  │  │  Brief description  │           │
+│  │  [Read More]        │  │  [Read More]        │           │
+│  └─────────────────────┘  └─────────────────────┘           │
+│                                                             │
+│  ┌─────────────────────┐  ┌─────────────────────┐           │
+│  │   [NEWS IMAGE]      │  │   [NEWS IMAGE]      │           │
+│  │  News Headline 3    │  │  News Headline 4    │           │
+│  │  Brief description  │  │  Brief description  │           │
+│  │  [Read More]        │  │  [Read More]        │           │
+│  └─────────────────────┘  └─────────────────────┘           │
+└─────────────────────────────────────────────────────────────┘
+
+MATCH HIGHLIGHTS SECTION
+┌─────────────────────────────────────────────────────────────┐
+│                   MATCH HIGHLIGHTS                          │
+│                                                             │
+│  ┌─────────────────────────────────────────────────────────┐│
+│  │  [MATCH PHOTO]  Sierra Leone vs Ghana - 2:1 Win        ││
+│  │  Date: March 15, 2024  |  Venue: National Stadium      ││
+│  │  [Watch Highlights] [View All Matches]                  ││
+│  └─────────────────────────────────────────────────────────┘│
+└─────────────────────────────────────────────────────────────┘
+
+FOOTER SECTION (Bottom of page)
+┌─────────────────────────────────────────────────────────────┐
+│  Contact: info@footballagency.sl | +232-XXX-XXXX            │
+│  Address: Freetown, Sierra Leone                            │
+│  [Facebook] [Twitter] [Instagram] [LinkedIn]                │
+│                                                             │
+│  © 2024 Football Agency Sierra Leone. All rights reserved.  │
+└─────────────────────────────────────────────────────────────┘
+
+ANNOTATIONS TO ADD TO YOUR SKETCH:
+- Label each section clearly
+- Add arrows showing user flow
+- Note where images will be placed
+- Mark clickable buttons and links
+- Show text hierarchy (headings, subheadings, body text)
+- Indicate responsive breakpoints for mobile view
+
+MOBILE VERSION CONSIDERATIONS:
+- Stack sections vertically
+- Use hamburger menu for navigation
+- Make buttons larger for touch
+- Reduce number of featured players to 2-3
+- Simplify news layout to single column

@@ -1,0 +1,107 @@
+FOOTBALL AGENCY SIERRA LEONE - PLAYERS PAGE SKETCH TEMPLATE
+============================================================
+
+Use this as a guide for your hand-drawn sketch. Draw this layout on paper with pencil.
+
+HEADER SECTION (Same as home page)
+┌─────────────────────────────────────────────────────────────┐
+│ [LOGO] Football Agency Sierra Leone    [Menu] [Contact]     │
+│                                                             │
+│ Home | Players | Matches | About Us | Contact               │
+└─────────────────────────────────────────────────────────────┘
+
+PAGE TITLE AND FILTERS
+┌─────────────────────────────────────────────────────────────┐
+│                    OUR PLAYERS                              │
+│                                                             │
+│  [All] [Forwards] [Midfielders] [Defenders] [Goalkeepers]   │
+│  [Search Players...] [Filter by Age] [Sort by Name]         │
+└─────────────────────────────────────────────────────────────┘
+
+PLAYER GRID SECTION
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐        │
+│  │ [PHOTO] │  │ [PHOTO] │  │ [PHOTO] │  │ [PHOTO] │        │
+│  │  Name   │  │  Name   │  │  Name   │  │  Name   │        │
+│  │Position │  │Position │  │Position │  │Position │        │
+│  │  Age    │  │  Age    │  │  Age    │  │  Age    │        │
+│  │  Club   │  │  Club   │  │  Club   │  │  Club   │        │
+│  │[View]   │  │[View]   │  │[View]   │  │[View]   │        │
+│  └─────────┘  └─────────┘  └─────────┘  └─────────┘        │
+│                                                             │
+│  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐        │
+│  │ [PHOTO] │  │ [PHOTO] │  │ [PHOTO] │  │ [PHOTO] │        │
+│  │  Name   │  │  Name   │  │  Name   │  │  Name   │        │
+│  │Position │  │Position │  │Position │  │Position │        │
+│  │  Age    │  │  Age    │  │  Age    │  │  Age    │        │
+│  │  Club   │  │  Club   │  │  Club   │  │  Club   │        │
+│  │[View]   │  │[View]   │  │[View]   │  │[View]   │        │
+│  └─────────┘  └─────────┘  └─────────┘  └─────────┘        │
+│                                                            │
+│  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐        │
+│  │ [PHOTO] │  │ [PHOTO] │  │ [PHOTO] │  │ [PHOTO] │        │
+│  │  Name   │  │  Name   │  │  Name   │  │  Name   │        │
+│  │Position │  │Position │  │Position │  │Position │        │
+│  │  Age    │  │  Age    │  │  Age    │  │  Age    │        │
+│  │  Club   │  │  Club   │  │  Club   │  │  Club   │        │
+│  │[View]   │  │[View]   │  │[View]   │  │[View]   │        │
+│  └─────────┘  └─────────┘  └─────────┘  └─────────┘        │
+└─────────────────────────────────────────────────────────────┘
+
+PAGINATION SECTION
+┌─────────────────────────────────────────────────────────────┐
+│                    [< Previous] 1 2 3 4 5 [Next >]          │
+│                                                             │
+│                    Showing 1-16 of 48 players               │
+└─────────────────────────────────────────────────────────────┘
+
+SIDEBAR (Optional - for additional info)
+┌─────────────────────────────────────────────────────────────┐
+│  QUICK STATS                                               │
+│  ┌─────────────────────────────────────────────────────────┐│
+│  │  Total Players: 48                                      ││
+│  │  Forwards: 12                                           ││
+│  │  Midfielders: 18                                        ││
+│  │  Defenders: 14                                          ││
+│  │  Goalkeepers: 4                                         ││
+│  │                                                         ││
+│  │  [Download Player List]                                 ││
+│  └─────────────────────────────────────────────────────────┘│
+└─────────────────────────────────────────────────────────────┘
+
+FOOTER SECTION (Same as home page)
+┌─────────────────────────────────────────────────────────────┐
+│  Contact: info@footballagency.sl | +232-XXX-XXXX            │
+│  Address: Freetown, Sierra Leone                           │
+│  [Facebook] [Twitter] [Instagram] [LinkedIn]               │
+│                                                             │
+│  © 2024 Football Agency Sierra Leone. All rights reserved. │
+└─────────────────────────────────────────────────────────────┘
+
+ANNOTATIONS TO ADD TO YOUR SKETCH:
+- Label filter buttons and their functions
+- Show search functionality
+- Mark player card elements clearly
+- Indicate clickable "View" buttons
+- Show pagination controls
+- Note responsive grid behavior
+- Add arrows showing user interactions
+
+MOBILE VERSION CONSIDERATIONS:
+- Single column layout for player cards
+- Collapsible filter menu
+- Larger touch targets for buttons
+- Simplified player card information
+- Swipe gestures for pagination
+- Hamburger menu for navigation
+
+PLAYER CARD DETAILS TO INCLUDE:
+- Professional headshot photo
+- Full name and nickname
+- Primary position
+- Age and height
+- Current club
+- Key statistics (goals, assists, etc.)
+- Nationality flag
+- "View Full Profile" button
