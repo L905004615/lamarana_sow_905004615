@@ -1,33 +1,20 @@
-# Football Agency Sierra Leone - Website Design Assignment
-# ADAMA THORONKA DIT1101 SEMESTER 3
-# ID: 905005398
+# Mini Library Management System
 
-## Assignment Overview
-This project contains the deliverables for Assignment 1: Wireframe & Hand Drawn Design for Football Agency Sierra Leone's website.
+Python mini library system with novels and local members.
 
-## Assignment Requirements
-- Research Football Agency Sierra Leone
-- Create hand-drawn sketches for the website
-- Design wireframes for the front-end
-- Include 5 required pages: Home, Players, Matches, About Us, Contact
+## How to Run
+- Demo: `python demo.py` (examples with add, borrow, search, update, return, delete; prints results).
+- Tests: `python tests.py` (8 asserts; silent if pass, errors if fail).
+- Requirements: Python 3.x.
 
-## Project Structure
-```
-├── research/
-│   └── agency-research.md
-├── sketches/
-│   ├── home-page-sketch.jpg
-│   ├── players-page-sketch.jpg
-│   ├── matches-page-sketch.jpg
-│   ├── about-us-page-sketch.jpg
-│   └── contact-page-sketch.jpg
-├── wireframes/
-│   ├── home-page-wireframe.png
-│   ├── players-page-wireframe.png
-│   ├── matches-page-wireframe.png
-│   ├── about-us-page-wireframe.png
-│   └── contact-page-wireframe.png
-└── documentation/
-    └── design-rationale.md
-```
+## Files
+- `operations.py`: Core functions.
+- `demo.py`: Demo script.
+- `tests.py`: Unit tests.
+- `UML.png`: Hand-drawn UML.
+- `DesignRationale.pdf`: Detailed rationale.
+- `README.md`: This guide.
 
+## Notes
+- Genres: Fiction, Non-Fiction, Sci-Fi.
+- Borrow limit: 3 books/member.
